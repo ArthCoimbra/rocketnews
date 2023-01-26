@@ -1,0 +1,72 @@
+
+
+
+:root {
+    position: absolute;
+    width: 720px;
+    margin: 0;
+    background: #121214;
+  }
+
+ .master {
+
+
+    z-index: 1;
+ } 
+.velho {
+    width: 720px;
+    height: 600px;
+    top: 0px;
+    left: 560px;
+    position: absolute;
+    z-index: 0;
+}
+
+.rocketnews {
+    width: 350px;
+    height: 94px;
+    left: 30px;
+    top: 50px;
+    z-index: 1;
+    }
+
+.atualize {
+    color: #04D361;
+}
+
+.tudo {
+    color: #FFFFFF;
+  
+}
+
+.noticias {
+
+color: #FFFFFF;
+}
+
+.insira {
+    color: #A8A8A8;
+
+}
+
+.input {
+    
+width: 620px;
+height: 30px;
+z-index: 1;
+filter: drop-shadow(4px 10px 15px rgba(0, 0, 0, 0.5));
+}
+
+.but {
+    position: absolute;
+    background-color: #8257E5;
+    
+}
+
+
+
+.deixe {
+    color: #8257E5;
+}
+
+    
